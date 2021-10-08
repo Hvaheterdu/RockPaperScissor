@@ -50,8 +50,8 @@ As said, this is a very simple GUI.
 
 When you start the program you are greeted with a "home screen", that looks like
 
-<img src="https://github.com/Hvaheterdu/Games/blob/master/RockPaperScissor/home_screen.png" width="700">
+<img src="https://github.com/Hvaheterdu/RockPaperScissor/blob/main/home_screen.png" width="700">
 
 This is an example of how the game looks when you play it
 
-<img src="https://github.com/Hvaheterdu/Games/blob/master/RockPaperScissor/game_screen.png" width="700">
+<img src="https://github.com/Hvaheterdu/RockPaperScissor/blob/main/game_screen.png" width="700">
